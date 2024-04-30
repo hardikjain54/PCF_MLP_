@@ -2,4 +2,8 @@
 Photonic crystal fiber (PCF) is a kind of optical fiber that uses photonic crystals to form the cladding around the core of the cable.They also known as holey fibers.**
 
 
-**Overall, reducing confinement loss in PCFs can lead to various advantages across a wide range of applications, including improved transmission efficiency, enhanced nonlinear optical effects, increased sensitivity in fiber sensors, and better performance in high-power fiber lasers. **
+****Overall, reducing confinement loss in PCFs can lead to various advantages 
+1 improved transmission efficiency
+2 enhanced nonlinear optical effects, 
+3 increased sensitivity in fiber sensors 
+4. better performance in high-power fiber lasers. ****
